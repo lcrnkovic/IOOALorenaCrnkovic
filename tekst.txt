@@ -1,0 +1,5 @@
+Sustav za kontrolu verzija izvornog programskog koda (engl. version control or source control
+system) definira način čuvanja, praćenja promjena i rada s različitim verzijama izvornog
+programskog koda. Kad se neki dio programskog koda doda ili izmijeni, sustav kreira novu verziju
+programskog koda. Sustav čuva i prati sve izmjene koje su se dogodile između svih prethodnih i
+trenutne verzije. 
